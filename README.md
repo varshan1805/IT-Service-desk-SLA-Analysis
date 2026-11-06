@@ -89,8 +89,8 @@ still multiplies the odds of a breach by about 10.
 You need Python 3.10+ and PostgreSQL 14+.
 
 ```bash
-git clone https://github.com/<your-username>/it-service-desk-sla-analysis.git
-cd it-service-desk-sla-analysis
+git clone https://github.com/varshan1805/IT-Service-desk-SLA-Analysis.git
+cd IT-Service-desk-SLA-Analysis
 pip install -r requirements.txt
 
 python src/generate_data.py          # writes data/raw/*.csv (about 15 seconds)
