@@ -1,0 +1,5 @@
+priority,response_target_min,resolution_target_hours,monthly_target_pct
+P1,15,4,95
+P2,30,8,95
+P3,240,48,90
+P4,480,120,90

@@ -1,0 +1,67 @@
+agent_id,agent_name,assignment_group,tier,joined_on
+AG050,Karthik Nair,ERP Application Support,L2,2024-05-08
+AG036,Sanjay Reddy,Network Operations,L2,2020-12-03
+AG008,Rahul Subramanian,Service Desk L1,L1,2023-03-13
+AG031,Janani Khan,Desktop Support,L2,2024-08-09
+AG037,Ishaan Rao,Network Operations,L2,2021-11-19
+AG030,Monica Krishnan,Desktop Support,L2,2019-10-25
+AG058,Pooja Patel,Identity & Access,L2,2020-01-01
+AG038,Nandhini Joseph,Network Operations,L2,2023-02-04
+AG023,Revathi Raghavan,Desktop Support,L2,2022-10-11
+AG016,Arun Pillai,Service Desk L1,L1,2023-11-27
+AG041,Ishaan Kumar,Server & Cloud Ops,L2,2019-08-09
+AG065,Ishaan Pillai,Warehouse Systems,L2,2021-06-07
+AG017,Revathi Reddy,Service Desk L1,L1,2023-06-29
+AG020,Karthik Sharma,Service Desk L1,L1,2019-02-26
+AG025,Kavya Rao,Desktop Support,L2,2024-07-03
+AG022,Manoj Pillai,Service Desk L1,L1,2022-12-17
+AG014,Ajay Krishnan,Service Desk L1,L1,2023-10-05
+AG007,Gokul Shetty,Service Desk L1,L1,2021-03-22
+AG001,Pavithra Reddy,Service Desk L1,L1,2019-02-06
+AG019,Divya Ramesh,Service Desk L1,L1,2019-02-03
+AG032,Pradeep Pillai,Network Operations,L2,2023-04-17
+AG015,Karthik Subramanian,Service Desk L1,L1,2022-11-27
+AG060,Harish Patel,Identity & Access,L2,2019-12-11
+AG044,Revathi Kumar,Server & Cloud Ops,L2,2023-12-11
+AG009,Farhan Gupta,Service Desk L1,L1,2022-08-26
+AG055,Kavya Joseph,Collaboration Support,L2,2021-11-17
+AG003,Deepa Sharma,Service Desk L1,L1,2020-06-29
+AG051,Sanjay Menon,ERP Application Support,L2,2019-02-25
+AG066,Janani Rao,Warehouse Systems,L2,2022-10-01
+AG042,Rohit Shetty,Server & Cloud Ops,L2,2022-12-17
+AG027,Gayathri Raghavan,Desktop Support,L2,2022-04-02
+AG045,Swathi Reddy,Server & Cloud Ops,L2,2020-11-29
+AG026,Meena Iyer,Desktop Support,L2,2022-08-06
+AG064,Ishaan Subramanian,Warehouse Systems,L2,2024-01-12
+AG013,Pooja Iyer,Service Desk L1,L1,2024-07-21
+AG048,Naveen Menon,ERP Application Support,L2,2021-11-07
+AG061,Vignesh Nair,Warehouse Systems,L2,2022-09-16
+AG024,Farhan Rao,Desktop Support,L2,2022-02-23
+AG033,Gayathri Khan,Network Operations,L2,2024-09-17
+AG059,Nandhini Rao,Identity & Access,L2,2022-07-02
+AG057,Deepa Menon,Identity & Access,L2,2024-05-04
+AG035,Monica Khan,Network Operations,L2,2019-01-25
+AG054,Naveen Naidu,Collaboration Support,L2,2020-05-27
+AG028,Gayathri Sharma,Desktop Support,L2,2021-07-18
+AG004,Arun Kumar,Service Desk L1,L1,2021-07-26
+AG052,Kavya Pillai,ERP Application Support,L2,2021-01-20
+AG047,Imran Verma,ERP Application Support,L2,2021-02-13
+AG062,Kiran Verma,Warehouse Systems,L2,2020-11-12
+AG005,Harish Kumar,Service Desk L1,L1,2020-03-14
+AG053,Pooja Pillai,Collaboration Support,L2,2022-06-06
+AG010,Karthik Joseph,Service Desk L1,L1,2024-04-13
+AG046,Sanjay Kumar,Server & Cloud Ops,L2,2024-08-25
+AG021,Pavithra Naidu,Service Desk L1,L1,2020-01-14
+AG063,Divya Joseph,Warehouse Systems,L2,2019-03-26
+AG049,Revathi Menon,ERP Application Support,L2,2023-08-21
+AG006,Nikhil Raghavan,Service Desk L1,L1,2022-11-06
+AG012,Gayathri Menon,Service Desk L1,L1,2020-07-29
+AG011,Ishaan Shetty,Service Desk L1,L1,2020-05-05
+AG040,Nandhini Raghavan,Server & Cloud Ops,L2,2024-05-06
+AG002,Pradeep Shetty,Service Desk L1,L1,2023-11-06
+AG018,Deepa Pillai,Service Desk L1,L1,2022-10-07
+AG056,Shalini Ramesh,Collaboration Support,L2,2019-09-26
+AG039,Priya Iyer,Server & Cloud Ops,L2,2021-01-17
+AG043,Lakshmi Verma,Server & Cloud Ops,L2,2021-12-16
+AG029,Ashwin Krishnan,Desktop Support,L2,2023-04-18
+AG034,Pooja Ramesh,Network Operations,L2,2020-02-26

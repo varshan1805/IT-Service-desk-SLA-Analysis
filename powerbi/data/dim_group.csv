@@ -1,0 +1,9 @@
+assignment_group,tier,shift_pattern,is_24x7,headcount
+Network Operations,L2,24x7,TRUE,7
+Warehouse Systems,L2,Daily 06:00-22:00,FALSE,6
+Server & Cloud Ops,L2,24x7,TRUE,8
+ERP Application Support,L2,Mon-Fri 09:00-19:00,FALSE,6
+Identity & Access,L2,Mon-Fri 09:00-18:00,FALSE,4
+Collaboration Support,L2,Mon-Fri 09:00-18:00,FALSE,4
+Service Desk L1,L1,"Mon-Fri 08:00-20:00, Sat 09:00-14:00",FALSE,22
+Desktop Support,L2,Mon-Sat 09:00-18:00,FALSE,9

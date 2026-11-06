@@ -1,0 +1,100 @@
+{
+  "credits_total_inr": 2945000,
+  "credits_avg_month_inr": 245416,
+  "months_missed": {
+    "P1": 12,
+    "P2": 11,
+    "P3": 8,
+    "P4": 0
+  },
+  "avg_compliance": {
+    "P1": 87.8,
+    "P2": 93.2,
+    "P3": 89.4,
+    "P4": 95.1
+  },
+  "bounced_pct_tickets": 11.8,
+  "bounced_pct_breaches": 41.5,
+  "breach_rate_by_bounce": [
+    5.6,
+    23.1,
+    45.6
+  ],
+  "odds_bounced": 10.1,
+  "odds_reopened": 40.3,
+  "hours_in_wrong_queues": 166500,
+  "avg_hours_lost_per_bounce": 34.0,
+  "warehouse_after_hours_share": 64.2,
+  "warehouse_after_hours_response_met": 33.8,
+  "warehouse_in_hours_response_met": 92.8,
+  "night_lockouts": 1416,
+  "night_lockout_median_hours": 9.6,
+  "night_lockout_worker_hours": 19547,
+  "monday_vs_midweek": 1.49,
+  "desktop_reopen_pct": 13.6,
+  "others_reopen_pct": 4.1,
+  "p1p2_breach_when_reopened": 98.4,
+  "p2_breaches_from_reopens_pct": 75.8,
+  "ds_agent_reopen_range": [
+    11.2,
+    14.7
+  ],
+  "ds_agent_p_value": 0.41,
+  "vpn_extra_tickets": 389,
+  "vpn_per_day": {
+    "after": 5.0,
+    "before": 4.9,
+    "during": 14.2
+  },
+  "netops_non_vpn_breach": {
+    "after": 6.7,
+    "before": 7.8,
+    "during": 10.2
+  },
+  "erp_month_end_multiplier": 2.2,
+  "scenarios": {
+    "As it was": {
+      "credits_inr": 2945000,
+      "P1_months_missed": 12,
+      "P2_months_missed": 11,
+      "P3_months_missed": 8,
+      "P4_months_missed": 0,
+      "saving_inr": 0
+    },
+    "Fix routing": {
+      "credits_inr": 2565000,
+      "P1_months_missed": 12,
+      "P2_months_missed": 11,
+      "P3_months_missed": 4,
+      "P4_months_missed": 0,
+      "saving_inr": 380000
+    },
+    "Confirm before closing": {
+      "credits_inr": 1520000,
+      "P1_months_missed": 12,
+      "P2_months_missed": 2,
+      "P3_months_missed": 2,
+      "P4_months_missed": 0,
+      "saving_inr": 1425000
+    },
+    "Both": {
+      "credits_inr": 1330000,
+      "P1_months_missed": 12,
+      "P2_months_missed": 2,
+      "P3_months_missed": 0,
+      "P4_months_missed": 0,
+      "saving_inr": 1615000
+    }
+  },
+  "p1_clean_breach_pct": 6.3,
+  "reset_tickets": 7527,
+  "reset_pct_of_tickets": 18.2,
+  "sspr_l1_hours_saved": 1048,
+  "sspr_l1_fte_saved": 0.55,
+  "sspr_l1_cost_saved_inr": 440377,
+  "sspr_warehouse_hours_recovered": 13682,
+  "sspr_warehouse_value_inr": 1505020,
+  "night_cover_cost_inr": 2115540,
+  "after_hours_tickets": 9159,
+  "after_hours_per_night": 25.1
+}
